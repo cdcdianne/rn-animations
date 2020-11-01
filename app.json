@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-animation-dot-inversion",
-    "slug": "rn-animation-dot-inversion",
+    "name": "header-scroll-animation",
+    "slug": "header-scroll-animation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
