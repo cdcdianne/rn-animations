@@ -1,12 +1,14 @@
-# React Native Dot inversion slider
+# React Native Header Scroll animation
 
 # Run on your device
 
 - npm install
 - expo start
 
-![Dot inversion animation](react-native-dot-inversion-animation.gif)
+![Image 1](image1.jpg)
+![Image 2](image2.jpg)
 
+`https://www.youtube.com/watch?v=T9LWjpHCW_E`
 
 You can find me on:
 
