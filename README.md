@@ -5,21 +5,8 @@
 - npm install
 - expo start
 
-<img
-src=image1.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-style="width:500px;"
-/>
-
-<img
-src=image2.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-style="width:500px;"
-/>
+![Image 1](image1.jpg)
+![Image 2](image2.jpg)
 
 You can find me on:
 
